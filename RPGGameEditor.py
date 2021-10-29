@@ -88,6 +88,7 @@ def Save(enemies):
                     writeText.write(str(enemyText[x][y]))
                     writeText.write(str('')) 
             
+            
     deletion.x = -200
     deletion.y = -200
 
